@@ -1,0 +1,109 @@
+@import url('https://fonts.cdnfonts.com/css/open-dyslexic');
+@import url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/opendyslexic.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* OpenDyslexic font definition fallbacks */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/npm/open-dyslexic-fonts@1.0.0/fonts/OpenDyslexic-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --app-font-family: 'Lexend', sans-serif;
+  --app-letter-spacing: 0.015em;
+  --app-line-height: 1.6;
+}
+
+body {
+  font-family: var(--app-font-family);
+  letter-spacing: var(--app-letter-spacing);
+  line-height: var(--app-line-height);
+}
+
+/* Force OpenDyslexic across all elements when active */
+body.font-dyslexic,
+html.font-dyslexic,
+body.font-dyslexic *,
+html.font-dyslexic * {
+  font-family: 'OpenDyslexic', 'Open-Dyslexic', 'OpenDyslexic-Regular', 'Comic Sans MS', sans-serif !important;
+}
+
+body.font-lexend,
+html.font-lexend,
+body.font-lexend *,
+html.font-lexend * {
+  font-family: 'Lexend', sans-serif !important;
+}
+
+body.font-sans,
+html.font-sans,
+body.font-sans *,
+html.font-sans * {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
+
+/* Theme variations */
+body.theme-cream {
+  background-color: #FFFDF5;
+  color: #2D281F;
+}
+
+body.theme-sage {
+  background-color: #F4F8F3;
+  color: #1E2D22;
+}
+
+body.theme-dark {
+  background-color: #0F172A;
+  color: #F8FAFC;
+}
+
+body.theme-lavender {
+  background-color: #F7F5FF;
+  color: #27213C;
+}
+
+/* Dyslexia reading helper styles */
+.dyslexia-focus-highlight:hover,
+.dyslexia-focus-highlight:focus-within {
+  background-color: rgba(99, 102, 241, 0.07);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+  border-radius: 0.75rem;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.45);
+}

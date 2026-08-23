@@ -1,0 +1,530 @@
+[
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T01:44:17.801856+00:00",
+    "_id": "6a8a507198a363db27d38488"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T01:59:51.013560+00:00",
+    "_id": "6a8a54179f5dca7b768b901e"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:10:48.478693+00:00",
+    "_id": "6a8a64b8320e01591f731774"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:10:50.723459+00:00",
+    "_id": "6a8a64ba320e01591f731775"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:11:21.019934+00:00",
+    "_id": "6a8a64d968880021ac8bb1db"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:11:23.328853+00:00",
+    "_id": "6a8a64db68880021ac8bb1dc"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:11:56.227070+00:00",
+    "_id": "6a8a64fc7f069339645c97cc"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:11:58.556587+00:00",
+    "_id": "6a8a64fe7f069339645c97cd"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:12:41.316708+00:00",
+    "_id": "6a8a65297f069339645c97cf"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:13:27.484705+00:00",
+    "_id": "6a8a65577f069339645c97d0"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:14:05.316935+00:00",
+    "_id": "6a8a657d7f069339645c97d1"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:14:34.049492+00:00",
+    "_id": "6a8a659a7f069339645c97d2"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:28:29.750666+00:00",
+    "_id": "6a8a68dd8cfe360b167568d7"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:29:14.824984+00:00",
+    "_id": "6a8a690a8cfe360b167568d8"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:29:51.888573+00:00",
+    "_id": "6a8a692f8cfe360b167568d9"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:42:49.118043+00:00",
+    "_id": "6a8a6c391bf1105fdd6916b8"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:51:56.438024+00:00",
+    "_id": "6a8a6e5c1bf1105fdd6916b9"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:53:07.361483+00:00",
+    "_id": "6a8a6ea31bf1105fdd6916ba"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T03:59:55.271210+00:00",
+    "_id": "6a8a703b9f72b4468e74872a"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T04:00:40.054812+00:00",
+    "_id": "6a8a70689f72b4468e74872b"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T04:00:57.309040+00:00",
+    "_id": "6a8a70799f72b4468e74872c"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T04:02:36.397828+00:00",
+    "_id": "6a8a70dc9f72b4468e74872d"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T04:03:15.053920+00:00",
+    "_id": "6a8a71039f72b4468e74872e"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "plan": {
+      "recommended_lessons": [
+        "6a89d656e0abc18463353715"
+      ],
+      "focus_areas": [
+        {
+          "area": "Multi-sensory reading practice",
+          "priority": "medium",
+          "suggested_exercises": [
+            "MCQ phonics",
+            "Audio pronunciation chunking"
+          ]
+        }
+      ],
+      "rationale": "Sequential curriculum progression reinforcing core dyslexia literacy skills.",
+      "difficulty_adjustment": "maintain"
+    },
+    "generated_at": "2026-08-23T04:04:04.154802+00:00",
+    "_id": "6a8a71349f72b4468e74872f"
+  }
+]

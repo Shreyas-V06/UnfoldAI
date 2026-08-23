@@ -1,0 +1,793 @@
+[
+  {
+    "student_id": "6a89e1d221f67d8ca5defbdc",
+    "exercise_id": "6a89e1d221f67d8ca5defbde",
+    "lesson_id": "6a89e1d221f67d8ca5defbdd",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 0
+    },
+    "evaluation": {
+      "score": 100.0,
+      "correct": true,
+      "analysis": "Correct answer selected!",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger. \ud83c\udf1f"
+    },
+    "score": 100.0,
+    "submitted_at": "2026-08-22T17:52:21.400923",
+    "created_at": "2026-08-22T17:52:21.400923",
+    "updated_at": "2026-08-22T17:52:21.400923",
+    "_id": "6a89e1d521f67d8ca5defbe0"
+  },
+  {
+    "student_id": "6a89e1ff94b090f8f258d2b8",
+    "exercise_id": "6a89e1ff94b090f8f258d2ba",
+    "lesson_id": "6a89e1ff94b090f8f258d2b9",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 0
+    },
+    "evaluation": {
+      "score": 100.0,
+      "correct": true,
+      "analysis": "Correct answer selected!",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 100.0,
+    "submitted_at": "2026-08-22T17:53:04.801886",
+    "created_at": "2026-08-22T17:53:04.801886",
+    "updated_at": "2026-08-22T17:53:04.801886",
+    "_id": "6a89e20094b090f8f258d2bc"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "exercise_id": "6a89e0613bb2ab4d0fb13010",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "situational",
+    "submission": {
+      "student_response": "The plant is droopy because it is in the dark corner ya uhmm yaa"
+    },
+    "evaluation": {
+      "score": 90.0,
+      "correct": true,
+      "analysis": "Response analyzed: Good comprehension and clear expression.",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 90.0,
+    "submitted_at": "2026-08-22T17:58:23.998987",
+    "created_at": "2026-08-22T17:58:23.998987",
+    "updated_at": "2026-08-22T17:58:23.998987",
+    "_id": "6a89e33fea5e6d1b6043dea7"
+  },
+  {
+    "student_id": "6a89ef4b2477f3c14fcc3713",
+    "exercise_id": "6a89ef4b2477f3c14fcc3715",
+    "lesson_id": "6a89ef4b2477f3c14fcc3714",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 0
+    },
+    "evaluation": {
+      "score": 100.0,
+      "correct": true,
+      "analysis": "Correct answer selected!",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 100.0,
+    "submitted_at": "2026-08-22T18:49:50.016429",
+    "created_at": "2026-08-22T18:49:50.016429",
+    "updated_at": "2026-08-22T18:49:50.016429",
+    "_id": "6a89ef4e2477f3c14fcc3717"
+  },
+  {
+    "student_id": "6a8a155e2c7e956933d9ac7f",
+    "exercise_id": "6a8a15602c7e956933d9ac83",
+    "lesson_id": "6a8a155e2c7e956933d9ac80",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 1
+    },
+    "evaluation": {
+      "score": 0.0,
+      "correct": false,
+      "analysis": "Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets.",
+      "identified_issues": [
+        "Option selection mismatch"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Good attempt! Let's practice this concept together.",
+      "strengths": [
+        "Good effort trying the exercise"
+      ],
+      "areas_to_improve": [
+        "Reviewing the key sound / word patterns"
+      ],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 0.0,
+    "submitted_at": "2026-08-22T21:32:19.247867",
+    "created_at": "2026-08-22T21:32:19.247867",
+    "updated_at": "2026-08-22T21:32:19.247867",
+    "_id": "6a8a15632c7e956933d9ac85"
+  },
+  {
+    "student_id": "6a8a15b63acc8d909a333400",
+    "exercise_id": "6a8a15b83acc8d909a333404",
+    "lesson_id": "6a8a15b63acc8d909a333401",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 1
+    },
+    "evaluation": {
+      "score": 0.0,
+      "correct": false,
+      "analysis": "Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets.",
+      "identified_issues": [
+        "Option selection mismatch"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Good attempt! Let's practice this concept together.",
+      "strengths": [
+        "Good effort trying the exercise"
+      ],
+      "areas_to_improve": [
+        "Reviewing the key sound / word patterns"
+      ],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 0.0,
+    "submitted_at": "2026-08-22T21:33:47.415198",
+    "created_at": "2026-08-22T21:33:47.415198",
+    "updated_at": "2026-08-22T21:33:47.415198",
+    "_id": "6a8a15bb3acc8d909a333406"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "exercise_id": "6a89dfdd3bb2ab4d0fb1300f",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "audio",
+    "submission": {
+      "audio_analysis": {
+        "vad": {
+          "speech_duration_seconds": 5.480000000000001,
+          "speech_ratio": 0.49908925318761393,
+          "silence_duration_seconds": 5.499999999999999,
+          "pause_count": 4,
+          "mean_pause_seconds": 1.3749999999999996,
+          "long_pause_count": 2,
+          "max_pause_seconds": 2.799999999999999,
+          "segment_count": 4,
+          "mean_segment_duration": 1.3700000000000003
+        },
+        "linguistic": {
+          "transcript": "chlorophyll, nix, diamond, grey and lute.",
+          "word_count": 6,
+          "speech_duration_seconds": 7.0,
+          "words_per_minute": 51.42857142857142,
+          "filler_word_count": 0,
+          "self_correction_pattern_count": 0,
+          "pause_count_from_transcript": 0,
+          "long_pause_count_from_transcript": 0,
+          "mean_transcript_gap_seconds": 0.0,
+          "mean_word_confidence": 0.47850433819823796,
+          "language": "en",
+          "language_probability": 0.6985458135604858,
+          "word_timestamp_count": 6,
+          "low_confidence_word_count": 4
+        },
+        "acoustic": {
+          "mean_rms_db": -31.679408951120063,
+          "mean_pitch_hz": 182.74169992883344,
+          "pitch_variability_hz": 67.94908763986962,
+          "mean_zcr": 0.12465874417857717,
+          "mean_spectral_centroid_hz": 840.8668003614329
+        },
+        "temporal": {
+          "early": {
+            "mean_rms_db": -33.065519731123366,
+            "mean_pitch_hz": 200.89382720887338,
+            "pitch_variability_hz": 73.94476866096423,
+            "mean_zcr": 0.13732822501089725,
+            "mean_spectral_centroid_hz": 861.9682304775731
+          },
+          "early_middle": {
+            "mean_rms_db": -29.072442190987722,
+            "mean_pitch_hz": 179.7078236197302,
+            "pitch_variability_hz": 60.37578692255965,
+            "mean_zcr": 0.15714973961320516,
+            "mean_spectral_centroid_hz": 1165.9840797372665
+          },
+          "late_middle": {
+            "mean_rms_db": -34.679567619994444,
+            "mean_pitch_hz": 163.72779003328552,
+            "pitch_variability_hz": 77.64572189153083,
+            "mean_zcr": 0.1214526600747895,
+            "mean_spectral_centroid_hz": 794.6311199294047
+          },
+          "late": {
+            "mean_rms_db": -29.90010626237471,
+            "mean_pitch_hz": 183.92774719946695,
+            "pitch_variability_hz": 55.505464967223034,
+            "mean_zcr": 0.08270435201541672,
+            "mean_spectral_centroid_hz": 540.8837713014864
+          },
+          "changes": {
+            "rms_db_change": 3.165413468748657,
+            "pitch_change_hz": -16.966080009406426,
+            "pitch_variability_change": -18.439303693741195,
+            "spectral_centroid_change_hz": -321.08445917608674
+          }
+        },
+        "audio_analysis": {
+          "audio_state": "mild_speech_variability",
+          "audio_signal_score": 0.342,
+          "evidence_quality": "moderate"
+        }
+      },
+      "video_analysis": {
+        "visual_state": "relatively_stable_visual_behavior",
+        "visual_signal_score": 0.15,
+        "evidence_quality": "moderate",
+        "overall_evidence_score": 0.75,
+        "face_presence_ratio": 0.92,
+        "eyes": {
+          "mean_ear": 0.285,
+          "blink_count": 3,
+          "blink_rate_per_minute": 14.5,
+          "long_closure_count": 0
+        },
+        "gaze": {
+          "availability_ratio": 0.95,
+          "mean_variability": 0.012
+        },
+        "head_pose": {
+          "available_ratio": 0.95,
+          "mean_yaw": 1.2,
+          "mean_pitch": -0.8,
+          "mean_roll": 0.4,
+          "yaw_variability": 1.5,
+          "pitch_variability": 1.2,
+          "roll_variability": 0.8
+        },
+        "expression": {
+          "dominant": "focused",
+          "mean_confidence": 0.88,
+          "distribution": {
+            "focused": 8,
+            "neutral": 2
+          }
+        },
+        "blendshapes": {
+          "top": [
+            {
+              "name": "browInnerUp",
+              "score": 0.12
+            },
+            {
+              "name": "eyeBlinkLeft",
+              "score": 0.05
+            },
+            {
+              "name": "eyeBlinkRight",
+              "score": 0.05
+            }
+          ]
+        },
+        "dino": {
+          "feature_dimension": 384,
+          "mean_temporal_change": 0.002,
+          "temporal_variance": 0.001
+        },
+        "temporal_analysis": {
+          "eye_openness_change": 0.002,
+          "gaze_variability_change": -0.001,
+          "head_movement_change": 0.12,
+          "segments": [
+            {
+              "segment": "early",
+              "face_presence_ratio": 0.95,
+              "mean_ear": 0.28,
+              "gaze_variability": 0.012,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "early_middle",
+              "face_presence_ratio": 0.95,
+              "mean_ear": 0.285,
+              "gaze_variability": 0.011,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "late_middle",
+              "face_presence_ratio": 0.92,
+              "mean_ear": 0.284,
+              "gaze_variability": 0.013,
+              "blink_count": 0,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "late",
+              "face_presence_ratio": 0.9,
+              "mean_ear": 0.282,
+              "gaze_variability": 0.012,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            }
+          ]
+        },
+        "signal_reasons": [],
+        "evidence": [
+          "The face remained visible throughout the reading practice.",
+          "Eye openness remained steady with regular natural blink rate.",
+          "Gaze focus remained centered on the target text."
+        ],
+        "signal_confidence": {
+          "face_detection": 0.92,
+          "eye_tracking": 0.92,
+          "gaze_estimation": 0.88,
+          "head_pose": 0.88,
+          "expression_classification": 0.88,
+          "temporal_evidence": 0.8
+        }
+      },
+      "visual_report": "VISUAL BEHAVIOR ANALYSIS REPORT\n============================================================\n\n1. OVERALL VISUAL OBSERVATION\n\nThe learner's face remained visible for most or all of the analyzed recording, providing strong visual evidence for the measured signals.\n\nVisual state: relatively_stable_visual_behavior\nVisual signal score: 0.15 / 1.00\nEvidence quality: moderate\nOverall evidence score: 0.75\n\n2. EYE AND GAZE BEHAVIOR\n\nMean eye aspect ratio: 0.285\nDetected blink events: 3\nEstimated blink rate: 14.50 events/min\nLong eye-closure events: 0\nEye openness remained relatively stable across the temporal segments.\nGaze availability: 95.00%\nMean gaze variability: 0.0120\nGaze variability remained relatively stable.\n\n3. HEAD ORIENTATION AND MOVEMENT\nAverage yaw: 1.20 degrees\nAverage pitch: -0.80 degrees\nAverage roll: 0.40 degrees\nPose availability: 95.00%\nHead orientation variability remained relatively stable.\n\n4. FACIAL BEHAVIOR\n\nDominant facial-expression classification: focused\nMean classification confidence: 0.88\n\nTop observed MediaPipe facial movement signals:\n- browInnerUp: 0.120\n- eyeBlinkLeft: 0.050\n- eyeBlinkRight: 0.050\n\nFacial-expression classifications and blendshape signals describe observable facial patterns. They should not be interpreted as definitive emotional diagnoses.\n\n5. VISUAL REPRESENTATION\n\nDINOv2 feature dimension: 384\nMean temporal embedding change: 0.002000\nTemporal embedding variability: 0.001000\n\n6. TEMPORAL CHANGES\n\nEye openness change: +0.0020\nGaze variability change: -0.0010\nHead movement variability change: +0.120\n\nDetected visual changes:\n- No strong temporal visual changes detected.\n\n7. POSSIBLE LEARNING-RELATED INTERPRETATION\n\nVisual behavior remained relatively stable during the analyzed period.\n\nEvidence:\n- The face remained visible throughout the reading practice.\n- Eye openness remained steady with regular natural blink rate.\n- Gaze focus remained centered on the target text.\n\n8. MULTIMODAL HANDOFF\n\nVisual signal score: 0.15\nVisual evidence quality: moderate\nMultimodal status: READY FOR AUDIO FUSION\n\n9. RECOMMENDED ADAPTIVE RESPONSE\n\nVisual engagement is stable. Continue standard learning path with positive encouragement.\n\n10. LIMITATIONS\n\nWebcam-based visual analysis describes observable behavior and should be combined with audio and task context.\n============================================================\nEND OF VISUAL ANALYSIS",
+      "student_response": "chlorophyll, nix, diamond, grey and lute.",
+      "audio_file_path": "C:\\Users\\Shreyas\\AppData\\Local\\Temp\\media_949b1d98-c9a9-434b-aa54-da5b739a5c5c.wav"
+    },
+    "evaluation": {
+      "score": 46.3,
+      "correct": false,
+      "analysis": "The spoken audio ('chlorophyll, nix, diamond, grey and lute....') differed from the target text 'Chlorophyll makes plants green and captures light.'. Your visual engagement and eye focus on the text remained steady throughout.",
+      "identified_issues": [
+        "Words needing practice: chlorophyll, makes, plants",
+        "Practice with syllable chunking cards"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Keep trying! Let's work on 'Pronouncing Big Science Words: Chlorophyll' together.",
+      "strengths": [
+        "Willingness to attempt challenging exercises"
+      ],
+      "areas_to_improve": [
+        "Words needing practice: chlorophyll, makes, plants",
+        "Practice with syllable chunking cards"
+      ],
+      "specific_tips": [
+        "Try reading the question aloud and highlighting the key words before responding."
+      ],
+      "encouragement": "Every effort trains your learning brain. Take your time, you've got this!"
+    },
+    "score": 46.3,
+    "submitted_at": "2026-08-23T04:04:04.168969",
+    "created_at": "2026-08-23T00:45:52.941552",
+    "updated_at": "2026-08-23T04:04:04.168969",
+    "_id": "6a8a42c0c087801db3cece1f"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "exercise_id": "6a89df793bb2ab4d0fb1300e",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 0
+    },
+    "evaluation": {
+      "score": 100.0,
+      "correct": true,
+      "analysis": "Correct answer selected!",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 100.0,
+    "submitted_at": "2026-08-23T01:59:51.019541",
+    "created_at": "2026-08-23T01:43:40.782693",
+    "updated_at": "2026-08-23T01:59:51.019541",
+    "_id": "6a8a504cc68f9bd17d70f8c2"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "exercise_id": "6a8a213043740fb783e6a09c",
+    "lesson_id": "6a8a212f43740fb783e6a09b",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 0,
+      "selected_option_text": "Sunlight, Water, Carbon Dioxide"
+    },
+    "evaluation": {
+      "score": 100.0,
+      "correct": true,
+      "analysis": "Correct answer selected!",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Great effort on this exercise!",
+      "strengths": [
+        "Clear focus on the activity",
+        "Consistent participation"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep using multi-sensory techniques like finger tracing while reading."
+      ],
+      "encouragement": "You are making steady progress! Every step helps your reading brain grow stronger."
+    },
+    "score": 100.0,
+    "submitted_at": "2026-08-23T02:51:59.108616",
+    "created_at": "2026-08-23T02:51:59.108616",
+    "updated_at": "2026-08-23T02:51:59.108616",
+    "_id": "6a8a604fbb8ddba4a44ea146"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "exercise_id": "6a89dfdd3bb2ab4d0fb1300f",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "audio",
+    "submission": {
+      "audio_analysis": {
+        "vad": {
+          "speech_duration_seconds": 0.0,
+          "speech_ratio": 0.0,
+          "silence_duration_seconds": 0.0,
+          "pause_count": 0,
+          "mean_pause_seconds": 0.0,
+          "long_pause_count": 0,
+          "max_pause_seconds": 0.0,
+          "segment_count": 0,
+          "mean_segment_duration": 0.0
+        },
+        "linguistic": {
+          "transcript": "",
+          "word_count": 0,
+          "speech_duration_seconds": 0.0,
+          "words_per_minute": 0.0,
+          "filler_word_count": 0,
+          "self_correction_pattern_count": 0,
+          "pause_count_from_transcript": 0,
+          "long_pause_count_from_transcript": 0,
+          "mean_transcript_gap_seconds": 0.0,
+          "mean_word_confidence": 0.0,
+          "language": "en",
+          "language_probability": 0.4135993421077728,
+          "word_timestamp_count": 0,
+          "low_confidence_word_count": 0
+        },
+        "acoustic": {
+          "mean_rms_db": -80.0,
+          "mean_pitch_hz": 0.0,
+          "pitch_variability_hz": 0.0,
+          "mean_zcr": 0.0,
+          "mean_spectral_centroid_hz": 0.0
+        },
+        "temporal": {
+          "early": {},
+          "early_middle": {},
+          "late_middle": {},
+          "late": {},
+          "changes": {}
+        },
+        "audio_analysis": {
+          "audio_state": "insufficient_speech_evidence",
+          "audio_signal_score": 0.0,
+          "evidence_quality": "limited"
+        }
+      },
+      "video_analysis": {
+        "visual_state": "relatively_stable_visual_behavior",
+        "visual_signal_score": 0.15,
+        "evidence_quality": "moderate",
+        "overall_evidence_score": 0.75,
+        "face_presence_ratio": 0.92,
+        "eyes": {
+          "mean_ear": 0.285,
+          "blink_count": 3,
+          "blink_rate_per_minute": 14.5,
+          "long_closure_count": 0
+        },
+        "gaze": {
+          "availability_ratio": 0.95,
+          "mean_variability": 0.012
+        },
+        "head_pose": {
+          "available_ratio": 0.95,
+          "mean_yaw": 1.2,
+          "mean_pitch": -0.8,
+          "mean_roll": 0.4,
+          "yaw_variability": 1.5,
+          "pitch_variability": 1.2,
+          "roll_variability": 0.8
+        },
+        "expression": {
+          "dominant": "focused",
+          "mean_confidence": 0.88,
+          "distribution": {
+            "focused": 8,
+            "neutral": 2
+          }
+        },
+        "blendshapes": {
+          "top": [
+            {
+              "name": "browInnerUp",
+              "score": 0.12
+            },
+            {
+              "name": "eyeBlinkLeft",
+              "score": 0.05
+            },
+            {
+              "name": "eyeBlinkRight",
+              "score": 0.05
+            }
+          ]
+        },
+        "dino": {
+          "feature_dimension": 384,
+          "mean_temporal_change": 0.002,
+          "temporal_variance": 0.001
+        },
+        "temporal_analysis": {
+          "eye_openness_change": 0.002,
+          "gaze_variability_change": -0.001,
+          "head_movement_change": 0.12,
+          "segments": [
+            {
+              "segment": "early",
+              "face_presence_ratio": 0.95,
+              "mean_ear": 0.28,
+              "gaze_variability": 0.012,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "early_middle",
+              "face_presence_ratio": 0.95,
+              "mean_ear": 0.285,
+              "gaze_variability": 0.011,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "late_middle",
+              "face_presence_ratio": 0.92,
+              "mean_ear": 0.284,
+              "gaze_variability": 0.013,
+              "blink_count": 0,
+              "dominant_expression": "focused"
+            },
+            {
+              "segment": "late",
+              "face_presence_ratio": 0.9,
+              "mean_ear": 0.282,
+              "gaze_variability": 0.012,
+              "blink_count": 1,
+              "dominant_expression": "focused"
+            }
+          ]
+        },
+        "signal_reasons": [],
+        "evidence": [
+          "The face remained visible throughout the reading practice.",
+          "Eye openness remained steady with regular natural blink rate.",
+          "Gaze focus remained centered on the target text."
+        ],
+        "signal_confidence": {
+          "face_detection": 0.92,
+          "eye_tracking": 0.92,
+          "gaze_estimation": 0.88,
+          "head_pose": 0.88,
+          "expression_classification": 0.88,
+          "temporal_evidence": 0.8
+        }
+      },
+      "visual_report": "VISUAL BEHAVIOR ANALYSIS REPORT\n============================================================\n\n1. OVERALL VISUAL OBSERVATION\n\nThe learner's face remained visible for most or all of the analyzed recording, providing strong visual evidence for the measured signals.\n\nVisual state: relatively_stable_visual_behavior\nVisual signal score: 0.15 / 1.00\nEvidence quality: moderate\nOverall evidence score: 0.75\n\n2. EYE AND GAZE BEHAVIOR\n\nMean eye aspect ratio: 0.285\nDetected blink events: 3\nEstimated blink rate: 14.50 events/min\nLong eye-closure events: 0\nEye openness remained relatively stable across the temporal segments.\nGaze availability: 95.00%\nMean gaze variability: 0.0120\nGaze variability remained relatively stable.\n\n3. HEAD ORIENTATION AND MOVEMENT\nAverage yaw: 1.20 degrees\nAverage pitch: -0.80 degrees\nAverage roll: 0.40 degrees\nPose availability: 95.00%\nHead orientation variability remained relatively stable.\n\n4. FACIAL BEHAVIOR\n\nDominant facial-expression classification: focused\nMean classification confidence: 0.88\n\nTop observed MediaPipe facial movement signals:\n- browInnerUp: 0.120\n- eyeBlinkLeft: 0.050\n- eyeBlinkRight: 0.050\n\nFacial-expression classifications and blendshape signals describe observable facial patterns. They should not be interpreted as definitive emotional diagnoses.\n\n5. VISUAL REPRESENTATION\n\nDINOv2 feature dimension: 384\nMean temporal embedding change: 0.002000\nTemporal embedding variability: 0.001000\n\n6. TEMPORAL CHANGES\n\nEye openness change: +0.0020\nGaze variability change: -0.0010\nHead movement variability change: +0.120\n\nDetected visual changes:\n- No strong temporal visual changes detected.\n\n7. POSSIBLE LEARNING-RELATED INTERPRETATION\n\nVisual behavior remained relatively stable during the analyzed period.\n\nEvidence:\n- The face remained visible throughout the reading practice.\n- Eye openness remained steady with regular natural blink rate.\n- Gaze focus remained centered on the target text.\n\n8. MULTIMODAL HANDOFF\n\nVisual signal score: 0.15\nVisual evidence quality: moderate\nMultimodal status: READY FOR AUDIO FUSION\n\n9. RECOMMENDED ADAPTIVE RESPONSE\n\nVisual engagement is stable. Continue standard learning path with positive encouragement.\n\n10. LIMITATIONS\n\nWebcam-based visual analysis describes observable behavior and should be combined with audio and task context.\n============================================================\nEND OF VISUAL ANALYSIS",
+      "student_response": "",
+      "audio_file_path": "C:\\Users\\Shreyas\\AppData\\Local\\Temp\\media_5adcb0c5-df03-4a7a-a0ad-9c2f07dddd66.webm"
+    },
+    "evaluation": {
+      "score": 15.0,
+      "correct": false,
+      "analysis": "No clear speech was detected for 'Chlorophyll makes plants green and captures light.'. Please check your microphone and try reading aloud clearly.",
+      "identified_issues": [
+        "No clear voice signal detected",
+        "Target sentence was: 'Chlorophyll makes plants green and captures light.'"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Let's review 'Pronouncing Big Science Words: Chlorophyll'.",
+      "strengths": [
+        "Started the exercise"
+      ],
+      "areas_to_improve": [
+        "No clear voice signal detected",
+        "Target sentence was: 'Chlorophyll makes plants green and captures light.'"
+      ],
+      "specific_tips": [
+        "Make sure to address the specific problem or read the exact words shown on screen."
+      ],
+      "encouragement": "Don't worry about mistakes\u2014they are the stepping stones to learning. Try again!"
+    },
+    "score": 15.0,
+    "submitted_at": "2026-08-23T04:00:57.324040",
+    "created_at": "2026-08-23T02:54:02.672340",
+    "updated_at": "2026-08-23T04:00:57.324040",
+    "_id": "6a8a60cabb8ddba4a44ea147"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "exercise_id": "6a89e0613bb2ab4d0fb13010",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "situational",
+    "submission": {
+      "student_response": "Sunlight is missing and plant is good",
+      "expected_skills": [
+        "Identify missing sunlight as the cause",
+        "Explain that chlorophyll needs light to make food",
+        "Propose moving the plant closer to the window"
+      ]
+    },
+    "evaluation": {
+      "score": 94.0,
+      "correct": true,
+      "analysis": "Great solution! Your response thoughtfully addresses the situation and demonstrates ['Identify missing sunlight as the cause', 'Explain that chlorophyll needs light to make food', 'Propose moving the plant closer to the window'] with constructive reasoning.",
+      "identified_issues": []
+    },
+    "immediate_feedback": {
+      "summary": "Outstanding work on 'The Classroom Plant Mystery'!",
+      "strengths": [
+        "Strong comprehension and accuracy",
+        "Clear and effective expression"
+      ],
+      "areas_to_improve": [],
+      "specific_tips": [
+        "Keep applying these multi-sensory techniques in your daily reading."
+      ],
+      "encouragement": "Fantastic progress! Your reading confidence and mastery are shining through. \ud83c\udf1f"
+    },
+    "score": 94.0,
+    "submitted_at": "2026-08-23T03:14:34.057767",
+    "created_at": "2026-08-23T02:55:35.344013",
+    "updated_at": "2026-08-23T03:14:34.057767",
+    "_id": "6a8a6127bb8ddba4a44ea148"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "exercise_id": "6a89df793bb2ab4d0fb1300e",
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 3,
+      "selected_option_text": "Rocks, Shade, and Rain"
+    },
+    "evaluation": {
+      "score": 0.0,
+      "correct": false,
+      "analysis": "Student selected option 3. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from the air to make glucose (food)!",
+      "identified_issues": [
+        "Option selection mismatch"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Let's review 'What Do Plants Need for Photosynthesis?'.",
+      "strengths": [
+        "Started the exercise"
+      ],
+      "areas_to_improve": [
+        "Option selection mismatch"
+      ],
+      "specific_tips": [
+        "Make sure to address the specific problem or read the exact words shown on screen."
+      ],
+      "encouragement": "Don't worry about mistakes\u2014they are the stepping stones to learning. Try again!"
+    },
+    "score": 0.0,
+    "submitted_at": "2026-08-23T03:51:56.447540",
+    "created_at": "2026-08-23T02:59:19.404243",
+    "updated_at": "2026-08-23T03:51:56.447540",
+    "_id": "6a8a6207bb8ddba4a44ea149"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "exercise_id": "6a89d6926f3da9eeced15a22",
+    "lesson_id": "6a89d6926f3da9eeced15a21",
+    "exercise_type": "mcq",
+    "submission": {
+      "student_answer_index": 3,
+      "selected_option_text": "q"
+    },
+    "evaluation": {
+      "score": 0.0,
+      "correct": false,
+      "analysis": "Student selected option 3. 'b' starts the word 'bat'.",
+      "identified_issues": [
+        "Option selection mismatch"
+      ]
+    },
+    "immediate_feedback": {
+      "summary": "Let's review 'Which Letter?'.",
+      "strengths": [
+        "Started the exercise"
+      ],
+      "areas_to_improve": [
+        "Option selection mismatch"
+      ],
+      "specific_tips": [
+        "Make sure to address the specific problem or read the exact words shown on screen."
+      ],
+      "encouragement": "Don't worry about mistakes\u2014they are the stepping stones to learning. Try again!"
+    },
+    "score": 0.0,
+    "submitted_at": "2026-08-23T03:22:16.513807",
+    "created_at": "2026-08-23T03:22:16.513807",
+    "updated_at": "2026-08-23T03:22:16.513807",
+    "_id": "6a8a67687f069339645c97d3"
+  }
+]

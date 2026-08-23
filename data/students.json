@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Alex Smith",
+    "email": "alex@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T17:03:18.393187",
+    "updated_at": "2026-08-22T17:03:18.393187",
+    "_id": "6a89d656e0abc18463353714"
+  },
+  {
+    "name": "Maya Lin",
+    "email": "maya_1787418210.5294118@example.com",
+    "age": 9,
+    "grade": "4th",
+    "profile": {
+      "learning_style": "visual",
+      "preferred_difficulty": "beginner"
+    },
+    "created_at": "2026-08-22T17:03:41.149116",
+    "updated_at": "2026-08-22T17:03:41.149116",
+    "_id": "6a89d66d9ef4b69e0a245034"
+  },
+  {
+    "name": "Maya Lin",
+    "email": "maya_3eb23e23@example.com",
+    "age": 9,
+    "grade": "4th",
+    "profile": {
+      "learning_style": "visual",
+      "preferred_difficulty": "beginner"
+    },
+    "created_at": "2026-08-22T17:04:18.324819",
+    "updated_at": "2026-08-22T17:04:18.324819",
+    "_id": "6a89d6926f3da9eeced15a20"
+  },
+  {
+    "name": "Shreyas",
+    "email": "shreyas@gmail.com",
+    "age": 10,
+    "grade": "VI",
+    "profile": {
+      "learning_style": "XYZ",
+      "preferred_difficulty": "EASY",
+      "notes": "Hello"
+    },
+    "created_at": "2026-08-22T17:21:33.640041",
+    "updated_at": "2026-08-22T17:21:33.640041",
+    "_id": "6a89da9d3bb2ab4d0fb1300c"
+  },
+  {
+    "name": "Leo Tester",
+    "email": "leo_6a89e1a1c5743f5d2979723f@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T17:51:29.353243",
+    "updated_at": "2026-08-22T17:51:29.353243",
+    "_id": "6a89e1a1c5743f5d29797240"
+  },
+  {
+    "name": "Leo Tester",
+    "email": "leo_6a89e1d221f67d8ca5defbdb@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T17:52:18.763940",
+    "updated_at": "2026-08-22T17:52:18.763940",
+    "_id": "6a89e1d221f67d8ca5defbdc"
+  },
+  {
+    "name": "Leo Tester",
+    "email": "leo_6a89e1ff94b090f8f258d2b7@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T17:53:03.171460",
+    "updated_at": "2026-08-22T17:53:03.171460",
+    "_id": "6a89e1ff94b090f8f258d2b8"
+  },
+  {
+    "name": "Emma Watson",
+    "email": "emma_6a89ef4b2477f3c14fcc3712@example.com",
+    "age": 11,
+    "grade": "6th",
+    "created_at": "2026-08-22T18:49:47.010402",
+    "updated_at": "2026-08-22T18:49:47.010402",
+    "_id": "6a89ef4b2477f3c14fcc3713"
+  },
+  {
+    "name": "Test ChatStudent",
+    "email": "chattest_6a8a155e2c7e956933d9ac7e@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T21:32:14.277983",
+    "updated_at": "2026-08-22T21:32:14.277983",
+    "_id": "6a8a155e2c7e956933d9ac7f"
+  },
+  {
+    "name": "Test ChatStudent",
+    "email": "chattest_6a8a15b63acc8d909a3333ff@example.com",
+    "age": 10,
+    "grade": "5th",
+    "created_at": "2026-08-22T21:33:42.301614",
+    "updated_at": "2026-08-22T21:33:42.301614",
+    "_id": "6a8a15b63acc8d909a333400"
+  }
+]

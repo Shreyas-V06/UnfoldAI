@@ -1,0 +1,305 @@
+[
+  {
+    "student_id": "6a89e1d221f67d8ca5defbdc",
+    "strengths": [
+      "Mastered Photosynthesis Ingredients"
+    ],
+    "weaknesses": [],
+    "misconceptions": [],
+    "pronunciation_issues": [],
+    "emotional_profile": {
+      "overall_sentiment": "neutral",
+      "observed_patterns": [],
+      "triggers": [],
+      "coping_strategies": []
+    },
+    "overall_progress": {},
+    "observations": [
+      {
+        "timestamp": "2026-08-22T17:52:21.390757+00:00",
+        "text": "Completed mcq exercise with score 100.0."
+      }
+    ],
+    "new_ai_observation": "Completed mcq exercise with score 100.0.",
+    "last_updated": "2026-08-22T17:52:21.390757+00:00",
+    "_id": "6a89e1d521f67d8ca5defbdf"
+  },
+  {
+    "student_id": "6a89e1ff94b090f8f258d2b8",
+    "strengths": [
+      "Mastered Photosynthesis Ingredients"
+    ],
+    "weaknesses": [],
+    "misconceptions": [],
+    "pronunciation_issues": [],
+    "emotional_profile": {
+      "overall_sentiment": "neutral",
+      "observed_patterns": [],
+      "triggers": [],
+      "coping_strategies": []
+    },
+    "overall_progress": {},
+    "observations": [
+      {
+        "timestamp": "2026-08-22T17:53:04.792806+00:00",
+        "text": "Completed mcq exercise with score 100.0."
+      }
+    ],
+    "new_ai_observation": "Completed mcq exercise with score 100.0.",
+    "last_updated": "2026-08-22T17:53:04.792806+00:00",
+    "_id": "6a89e20094b090f8f258d2bb"
+  },
+  {
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "strengths": [
+      "Mastered The Classroom Plant Mystery",
+      "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+      "Mastered: Pronouncing Big Science Words: Chlorophyll"
+    ],
+    "weaknesses": [
+      "Difficulty with 'Pronouncing Big Science Words: Chlorophyll': Words needing practice: chlorophyll, makes, plants"
+    ],
+    "misconceptions": [],
+    "pronunciation_issues": [
+      "Words needing practice: chlorophyll, makes, plants",
+      "Practice with syllable chunking cards"
+    ],
+    "emotional_profile": {
+      "overall_sentiment": "neutral",
+      "observed_patterns": [],
+      "triggers": [],
+      "coping_strategies": []
+    },
+    "overall_progress": {},
+    "observations": [
+      {
+        "timestamp": "2026-08-22T17:58:23.982071+00:00",
+        "text": "Completed situational exercise with score 90.0."
+      },
+      {
+        "timestamp": "2026-08-23T00:45:52.925536+00:00",
+        "text": "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T01:43:40.768725+00:00",
+        "text": "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T01:44:16.905374+00:00",
+        "text": "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T01:59:50.115963+00:00",
+        "text": "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T04:02:34.934700+00:00",
+        "text": "Demonstrated high mastery (93.7%) in audio activity 'Pronouncing Big Science Words: Chlorophyll'."
+      },
+      {
+        "timestamp": "2026-08-23T04:03:13.544443+00:00",
+        "text": "Demonstrated high mastery (93.7%) in audio activity 'Pronouncing Big Science Words: Chlorophyll'."
+      },
+      {
+        "timestamp": "2026-08-23T04:04:02.789881+00:00",
+        "text": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 46.3%). Gaps: Words needing practice: chlorophyll, makes, plants."
+      }
+    ],
+    "new_ai_observation": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 46.3%). Gaps: Words needing practice: chlorophyll, makes, plants.",
+    "last_updated": "2026-08-23T04:04:02.789881+00:00",
+    "_id": "6a89e33fea5e6d1b6043dea6"
+  },
+  {
+    "student_id": "6a89ef4b2477f3c14fcc3713",
+    "strengths": [
+      "Mastered Question 1"
+    ],
+    "weaknesses": [],
+    "misconceptions": [],
+    "pronunciation_issues": [],
+    "emotional_profile": {
+      "overall_sentiment": "neutral",
+      "observed_patterns": [],
+      "triggers": [],
+      "coping_strategies": []
+    },
+    "overall_progress": {},
+    "observations": [
+      {
+        "timestamp": "2026-08-22T18:49:50.003951+00:00",
+        "text": "Completed mcq exercise with score 100.0."
+      }
+    ],
+    "new_ai_observation": "Completed mcq exercise with score 100.0.",
+    "last_updated": "2026-08-22T18:49:50.003951+00:00",
+    "_id": "6a89ef4e2477f3c14fcc3716"
+  },
+  {
+    "student_id": "6a8a155e2c7e956933d9ac7f",
+    "strengths": [],
+    "weaknesses": [
+      "Option selection mismatch"
+    ],
+    "misconceptions": [
+      "In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets."
+    ],
+    "pronunciation_issues": [],
+    "emotional_profile": "No patterns observed yet.",
+    "overall_progress": "",
+    "observations": [
+      {
+        "timestamp": "2026-08-22T21:32:19.237299+00:00",
+        "text": "Misconception detected in mcq exercise: In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets."
+      }
+    ],
+    "new_ai_observation": "Misconception detected in mcq exercise: In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets.",
+    "last_updated": "2026-08-22T21:32:19.237299+00:00",
+    "_id": "6a8a15632c7e956933d9ac84"
+  },
+  {
+    "student_id": "6a8a15b63acc8d909a333400",
+    "strengths": [],
+    "weaknesses": [
+      "Option selection mismatch"
+    ],
+    "misconceptions": [
+      "In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets."
+    ],
+    "pronunciation_issues": [],
+    "emotional_profile": "No patterns observed yet.",
+    "overall_progress": "",
+    "observations": [
+      {
+        "timestamp": "2026-08-22T21:33:47.401509+00:00",
+        "text": "Misconception detected in mcq exercise: In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets."
+      }
+    ],
+    "new_ai_observation": "Misconception detected in mcq exercise: In 'Condensation Check': Student selected option 1. During condensation, water vapor cools and forms tiny liquid droplets.",
+    "last_updated": "2026-08-22T21:33:47.401509+00:00",
+    "_id": "6a8a15bb3acc8d909a333405"
+  },
+  {
+    "student_id": "6a89d656e0abc18463353714",
+    "strengths": [
+      "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+      "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression.",
+      "Mastered: The Classroom Plant Mystery",
+      "Mastered: Pronouncing Big Science Words: Chlorophyll"
+    ],
+    "weaknesses": [
+      "Option selection mismatch",
+      "Could expand on the follow-up strategy",
+      "Unrelated response to scenario",
+      "Missing focus on: ['Identify missing sunlight as the cause', 'Explain that chlorophyll needs light to make food', 'Propose moving the plant closer to the window']",
+      "Difficulty with 'Pronouncing Big Science Words: Chlorophyll': No clear voice signal detected"
+    ],
+    "misconceptions": [
+      "In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from"
+    ],
+    "pronunciation_issues": [
+      "Review pronunciation for: chlorophyll, plants, green",
+      "No clear voice signal detected",
+      "Target sentence was: 'Chlorophyll makes plants green and captures light.'",
+      "Review pronunciation for: makes, plants, green"
+    ],
+    "emotional_profile": "No patterns observed yet.",
+    "overall_progress": "",
+    "observations": [
+      {
+        "timestamp": "2026-08-23T02:54:02.649599+00:00",
+        "text": "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T02:55:35.317876+00:00",
+        "text": "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression."
+      },
+      {
+        "timestamp": "2026-08-23T02:59:19.376336+00:00",
+        "text": "Misconception detected in mcq exercise: In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from"
+      },
+      {
+        "timestamp": "2026-08-23T03:10:46.200269+00:00",
+        "text": "Completed situational exercise 'The Classroom Plant Mystery' with score 65.0%."
+      },
+      {
+        "timestamp": "2026-08-23T03:10:48.565151+00:00",
+        "text": "Demonstrated high mastery (98.0%) in situational activity 'The Classroom Plant Mystery'."
+      },
+      {
+        "timestamp": "2026-08-23T03:11:18.184091+00:00",
+        "text": "Completed situational exercise 'The Classroom Plant Mystery' with score 55.0%."
+      },
+      {
+        "timestamp": "2026-08-23T03:11:21.118439+00:00",
+        "text": "Demonstrated high mastery (98.0%) in situational activity 'The Classroom Plant Mystery'."
+      },
+      {
+        "timestamp": "2026-08-23T03:11:53.423685+00:00",
+        "text": "Struggled with situational exercise 'The Classroom Plant Mystery' (Score: 15.0%). Gaps: Unrelated response to scenario."
+      },
+      {
+        "timestamp": "2026-08-23T03:11:56.314631+00:00",
+        "text": "Demonstrated high mastery (98.0%) in situational activity 'The Classroom Plant Mystery'."
+      },
+      {
+        "timestamp": "2026-08-23T03:12:39.930874+00:00",
+        "text": "Struggled with mcq exercise 'What Do Plants Need for Photosynthesis?' (Score: 0.0%). Gaps: Option selection mismatch."
+      },
+      {
+        "timestamp": "2026-08-23T03:13:25.409355+00:00",
+        "text": "Completed audio exercise 'Pronouncing Big Science Words: Chlorophyll' with score 65.4%."
+      },
+      {
+        "timestamp": "2026-08-23T03:14:03.996591+00:00",
+        "text": "Struggled with situational exercise 'The Classroom Plant Mystery' (Score: 15.0%). Gaps: Unrelated response to scenario."
+      },
+      {
+        "timestamp": "2026-08-23T03:14:32.653514+00:00",
+        "text": "Demonstrated high mastery (94.0%) in situational activity 'The Classroom Plant Mystery'."
+      },
+      {
+        "timestamp": "2026-08-23T03:22:16.498948+00:00",
+        "text": "Struggled with mcq exercise 'Which Letter?' (Score: 0.0%). Gaps: Option selection mismatch."
+      },
+      {
+        "timestamp": "2026-08-23T03:28:28.017123+00:00",
+        "text": "Struggled with mcq exercise 'What Do Plants Need for Photosynthesis?' (Score: 0.0%). Gaps: Option selection mismatch."
+      },
+      {
+        "timestamp": "2026-08-23T03:29:12.741646+00:00",
+        "text": "Demonstrated high mastery (100.0%) in audio activity 'Pronouncing Big Science Words: Chlorophyll'."
+      },
+      {
+        "timestamp": "2026-08-23T03:29:49.826404+00:00",
+        "text": "Demonstrated high mastery (100.0%) in audio activity 'Pronouncing Big Science Words: Chlorophyll'."
+      },
+      {
+        "timestamp": "2026-08-23T03:42:47.177404+00:00",
+        "text": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 15.0%). Gaps: No clear voice signal detected."
+      },
+      {
+        "timestamp": "2026-08-23T03:51:55.145459+00:00",
+        "text": "Struggled with mcq exercise 'What Do Plants Need for Photosynthesis?' (Score: 0.0%). Gaps: Option selection mismatch."
+      },
+      {
+        "timestamp": "2026-08-23T03:53:05.885385+00:00",
+        "text": "Completed audio exercise 'Pronouncing Big Science Words: Chlorophyll' with score 62.3%."
+      },
+      {
+        "timestamp": "2026-08-23T03:59:53.494944+00:00",
+        "text": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 15.0%). Gaps: No clear voice signal detected."
+      },
+      {
+        "timestamp": "2026-08-23T04:00:39.096180+00:00",
+        "text": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 15.0%). Gaps: No clear voice signal detected."
+      },
+      {
+        "timestamp": "2026-08-23T04:00:55.829717+00:00",
+        "text": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 15.0%). Gaps: No clear voice signal detected."
+      }
+    ],
+    "last_updated": "2026-08-23T04:00:55.829717+00:00",
+    "_id": "6a8a604fbb8ddba4a44ea145",
+    "new_ai_observation": "Struggled with audio exercise 'Pronouncing Big Science Words: Chlorophyll' (Score: 15.0%). Gaps: No clear voice signal detected."
+  }
+]

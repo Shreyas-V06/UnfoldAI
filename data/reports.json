@@ -1,0 +1,434 @@
+[
+  {
+    "_id": "6a89ef4f2477f3c14fcc3718",
+    "student_id": "6a89ef4b2477f3c14fcc3713",
+    "period": "weekly",
+    "summary": {
+      "overall_performance": "Emma Watson is showing positive learning progress with consistent performance across completed modules with an average score of 100.0%.",
+      "key_achievements": [
+        "Mastered Question 1"
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-22T18:49:51.608535+00:00"
+  },
+  {
+    "_id": "6a89ef512477f3c14fcc3719",
+    "student_id": "6a89ef4b2477f3c14fcc3713",
+    "period": "monthly",
+    "summary": {
+      "overall_performance": "Emma Watson is showing positive learning progress with consistent performance across completed modules with an average score of 100.0%.",
+      "key_achievements": [
+        "Mastered Question 1"
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-22T18:49:53.302492+00:00"
+  },
+  {
+    "_id": "6a89efc7176852da167e844b",
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Shreyas is showing positive learning progress with consistent performance across completed modules with an average score of 90.0%.",
+      "key_achievements": [
+        "Mastered The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-22T18:51:51.504110+00:00"
+  },
+  {
+    "_id": "6a8a219499be98c2123e4964",
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Shreyas is showing positive learning progress with consistent performance across completed modules with an average score of 90.0%.",
+      "key_achievements": [
+        "Mastered The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-22T22:24:20.629127+00:00"
+  },
+  {
+    "_id": "6a8a504ec68f9bd17d70f8c3",
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Shreyas is showing positive learning progress with consistent performance across completed modules with an average score of 93.3%.",
+      "key_achievements": [
+        "Mastered The Classroom Plant Mystery",
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-23T01:43:42.903757+00:00"
+  },
+  {
+    "_id": "6a8a507398a363db27d38489",
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Shreyas is showing positive learning progress with consistent performance across completed modules with an average score of 93.3%.",
+      "key_achievements": [
+        "Mastered The Classroom Plant Mystery",
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-23T01:44:19.493455+00:00"
+  },
+  {
+    "_id": "6a8a54189f5dca7b768b901f",
+    "student_id": "6a89da9d3bb2ab4d0fb1300c",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Shreyas is showing positive learning progress with consistent performance across completed modules with an average score of 93.3%.",
+      "key_achievements": [
+        "Mastered The Classroom Plant Mystery",
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression."
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Occasional hesitation on mirror letter pairs.",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-23T01:59:52.587353+00:00"
+  },
+  {
+    "_id": "6a8a5fc9bb8ddba4a44e9cb5",
+    "student_id": "6a89d656e0abc18463353714",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Alex Smith is showing positive learning progress with consistent performance across completed modules with an average score of 85.0%.",
+      "key_achievements": [
+        "Multi-sensory engagement",
+        "Active exercise participation"
+      ],
+      "areas_of_concern": [
+        "Reading fatigue during extended text passages."
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Phonemic Awareness",
+        "finding": "Phoneme discrimination in complex words",
+        "severity": "medium"
+      },
+      {
+        "category": "Emotional Well-being",
+        "finding": "Demonstrates positive persistence when guided through multi-sensory techniques.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue utilizing color overlays and syllable chunking during reading tasks.",
+      "Integrate short 2-minute movement breaks between reading activities to minimize visual fatigue.",
+      "Reinforce mirror letter distinctions (b vs d) through tactile tracing before text exercises."
+    ],
+    "generated_at": "2026-08-23T02:49:45.997537+00:00"
+  },
+  {
+    "_id": "6a8a64ba320e01591f731776",
+    "student_id": "6a89d656e0abc18463353714",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Alex Smith has completed 4 exercises with an overall average accuracy of 72.0%.",
+      "average_score": 72.0,
+      "exercises_completed": 4,
+      "key_achievements": [
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+        "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression.",
+        "Mastered: The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Option selection mismatch",
+        "Could expand on the follow-up strategy",
+        "In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from"
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Speech & Oral Reading Accuracy",
+        "finding": "Demonstrated consistent speech articulation and syllable blending during reading practice.",
+        "severity": "low"
+      },
+      {
+        "category": "Conceptual Comprehension",
+        "finding": "Observed comprehension gaps: In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from.",
+        "severity": "medium"
+      },
+      {
+        "category": "Social-Emotional Resilience",
+        "finding": "Overall emotional posture is 'reflective'. Responds well to positive reinforcement.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue daily 10-minute multi-sensory reading drills using the OpenDyslexic font and reading ruler.",
+      "Encourage student to explain their reasoning aloud to reinforce self-advocacy and metacognition.",
+      "Provide 2-minute visual rest pauses between intensive phonics modules to prevent eye fatigue."
+    ],
+    "generated_at": "2026-08-23T03:10:50.866109+00:00"
+  },
+  {
+    "_id": "6a8a64db68880021ac8bb1dd",
+    "student_id": "6a89d656e0abc18463353714",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Alex Smith has completed 4 exercises with an overall average accuracy of 72.0%.",
+      "average_score": 72.0,
+      "exercises_completed": 4,
+      "key_achievements": [
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+        "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression.",
+        "Mastered: The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Option selection mismatch",
+        "Could expand on the follow-up strategy",
+        "In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from"
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Speech & Oral Reading Accuracy",
+        "finding": "Demonstrated consistent speech articulation and syllable blending during reading practice.",
+        "severity": "low"
+      },
+      {
+        "category": "Conceptual Comprehension",
+        "finding": "Observed comprehension gaps: In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from.",
+        "severity": "medium"
+      },
+      {
+        "category": "Social-Emotional Resilience",
+        "finding": "Overall emotional posture is 'reflective'. Responds well to positive reinforcement.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue daily 10-minute multi-sensory reading drills using the OpenDyslexic font and reading ruler.",
+      "Encourage student to explain their reasoning aloud to reinforce self-advocacy and metacognition.",
+      "Provide 2-minute visual rest pauses between intensive phonics modules to prevent eye fatigue."
+    ],
+    "generated_at": "2026-08-23T03:11:23.470813+00:00"
+  },
+  {
+    "_id": "6a8a64fe7f069339645c97ce",
+    "student_id": "6a89d656e0abc18463353714",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Alex Smith has completed 4 exercises with an overall average accuracy of 72.0%.",
+      "average_score": 72.0,
+      "exercises_completed": 4,
+      "key_achievements": [
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+        "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression.",
+        "Mastered: The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Option selection mismatch",
+        "Could expand on the follow-up strategy",
+        "Unrelated response to scenario"
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Speech & Oral Reading Accuracy",
+        "finding": "Demonstrated consistent speech articulation and syllable blending during reading practice.",
+        "severity": "low"
+      },
+      {
+        "category": "Conceptual Comprehension",
+        "finding": "Observed comprehension gaps: In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from.",
+        "severity": "medium"
+      },
+      {
+        "category": "Social-Emotional Resilience",
+        "finding": "Overall emotional posture is 'reflective'. Responds well to positive reinforcement.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Continue daily 10-minute multi-sensory reading drills using the OpenDyslexic font and reading ruler.",
+      "Encourage student to explain their reasoning aloud to reinforce self-advocacy and metacognition.",
+      "Provide 2-minute visual rest pauses between intensive phonics modules to prevent eye fatigue."
+    ],
+    "generated_at": "2026-08-23T03:11:58.684628+00:00"
+  },
+  {
+    "_id": "6a8a6f1b1bf1105fdd6916bb",
+    "student_id": "6a89d656e0abc18463353714",
+    "period": "overall",
+    "summary": {
+      "overall_performance": "Alex Smith has completed 5 exercises with an overall average accuracy of 51.3%.",
+      "average_score": 51.3,
+      "exercises_completed": 5,
+      "key_achievements": [
+        "Strong understanding of Pronouncing Big Science Words: Chlorophyll: Response analyzed: Good comprehension and clear expression.",
+        "Strong understanding of The Classroom Plant Mystery: Response analyzed: Good comprehension and clear expression.",
+        "Mastered: The Classroom Plant Mystery"
+      ],
+      "areas_of_concern": [
+        "Option selection mismatch",
+        "Could expand on the follow-up strategy",
+        "Unrelated response to scenario"
+      ]
+    },
+    "detailed_findings": [
+      {
+        "category": "Speech & Oral Reading Accuracy",
+        "finding": "Identified speech difficulties in oral exercises: Review pronunciation for: chlorophyll, plants, green, No clear voice signal detected, Target sentence was: 'Chlorophyll makes plants green and captures light.'.",
+        "severity": "high"
+      },
+      {
+        "category": "Conceptual Comprehension",
+        "finding": "Observed comprehension gaps: In 'What Do Plants Need for Photosynthesis?': Student selected option 1. Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from.",
+        "severity": "medium"
+      },
+      {
+        "category": "Social-Emotional Resilience",
+        "finding": "Overall emotional posture is 'reflective'. Responds well to positive reinforcement.",
+        "severity": "low"
+      }
+    ],
+    "recommendations": [
+      "Focus on multi-sensory tactile tracing for identified speech patterns: Review pronunciation for: chlorophyll, plants, green.",
+      "Break complex multi-step scenario questions into smaller bulleted clues before submitting.",
+      "Provide 2-minute visual rest pauses between intensive phonics modules to prevent eye fatigue."
+    ],
+    "generated_at": "2026-08-23T03:55:07.825497+00:00"
+  }
+]

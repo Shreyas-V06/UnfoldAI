@@ -1,0 +1,389 @@
+[
+  {
+    "lesson_id": "6a89d656e0abc18463353715",
+    "type": "mcq",
+    "title": "Identify the Blend",
+    "content": {
+      "question": "Which word starts with the 'bl' sound?",
+      "options": [
+        "cat",
+        "blue",
+        "dog",
+        "sun"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'blue' starts with 'bl'."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:03:18.467860",
+    "updated_at": "2026-08-22T17:03:18.467860",
+    "_id": "6a89d656e0abc18463353716"
+  },
+  {
+    "lesson_id": "6a89d66d9ef4b69e0a245035",
+    "type": "mcq",
+    "title": "Which Letter?",
+    "content": {
+      "question": "Which letter makes the sound /b/ as in 'bat'?",
+      "options": [
+        "d",
+        "b",
+        "p",
+        "q"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'b' starts the word 'bat'."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:03:41.248207",
+    "updated_at": "2026-08-22T17:03:41.248207",
+    "_id": "6a89d66d9ef4b69e0a245036"
+  },
+  {
+    "lesson_id": "6a89d6926f3da9eeced15a21",
+    "type": "mcq",
+    "title": "Which Letter?",
+    "content": {
+      "question": "Which letter makes the sound /b/ as in 'bat'?",
+      "options": [
+        "d",
+        "b",
+        "p",
+        "q"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'b' starts the word 'bat'."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:04:18.390869",
+    "updated_at": "2026-08-22T17:04:18.390869",
+    "_id": "6a89d6926f3da9eeced15a22"
+  },
+  {
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "type": "mcq",
+    "title": "What Do Plants Need for Photosynthesis?",
+    "content": {
+      "question": "What three main ingredients does a green leaf need to make its own food?",
+      "options": [
+        "Sunlight, Water, and Carbon Dioxide",
+        "Milk, Sugar, and Soil",
+        "Moonlight, Ice, and Oxygen",
+        "Rocks, Shade, and Rain"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants take in sunlight through their leaves, water from their roots, and carbon dioxide from the air to make glucose (food)!"
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:42:17.237111",
+    "updated_at": "2026-08-22T17:42:17.237111",
+    "_id": "6a89df793bb2ab4d0fb1300e"
+  },
+  {
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "type": "audio",
+    "title": "Pronouncing Big Science Words: Chlorophyll",
+    "content": {
+      "audio_description": "Spoken guide demonstrating how to chunk the syllables of 'Chlo-ro-phyll' and 'Pho-to-syn-the-sis'.",
+      "target_text": "Chlorophyll makes plants green and captures light.",
+      "pronunciation_guide": "KLOR-uh-fil (Chlorophyll) | FOH-toe-SIN-thuh-sis (Photosynthesis)"
+    },
+    "order": 2,
+    "created_at": "2026-08-22T17:43:57.902944",
+    "updated_at": "2026-08-22T17:43:57.902944",
+    "_id": "6a89dfdd3bb2ab4d0fb1300f"
+  },
+  {
+    "lesson_id": "6a89dee93bb2ab4d0fb1300d",
+    "type": "situational",
+    "title": "The Classroom Plant Mystery",
+    "content": {
+      "situation": "You notice your classroom desk plant has pale yellow leaves and looks droopy. It has plenty of water in its pot, but it sits in a dark corner behind a bookcase.",
+      "context": "Applying photosynthesis requirements to diagnose why the plant is struggling to produce food.",
+      "expected_skills": [
+        "Identify missing sunlight as the cause",
+        "Explain that chlorophyll needs light to make food",
+        "Propose moving the plant closer to the window"
+      ],
+      "difficulty_hint": "Think about which of the 3 ingredients the dark corner is blocking."
+    },
+    "order": 4,
+    "created_at": "2026-08-22T17:46:09.501782",
+    "updated_at": "2026-08-22T17:46:09.501782",
+    "_id": "6a89e0613bb2ab4d0fb13010"
+  },
+  {
+    "lesson_id": "6a89e1a1c5743f5d29797241",
+    "type": "mcq",
+    "title": "Photosynthesis Ingredients",
+    "content": {
+      "question": "What 3 ingredients do plants need?",
+      "options": [
+        "Sunlight, Water, Carbon Dioxide",
+        "Milk, Sugar, Soil"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants need light, water, and CO2."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:51:29.417370",
+    "updated_at": "2026-08-22T17:51:29.417370",
+    "_id": "6a89e1a1c5743f5d29797242"
+  },
+  {
+    "lesson_id": "6a89e1d221f67d8ca5defbdd",
+    "type": "mcq",
+    "title": "Photosynthesis Ingredients",
+    "content": {
+      "question": "What 3 ingredients do plants need?",
+      "options": [
+        "Sunlight, Water, Carbon Dioxide",
+        "Milk, Sugar, Soil"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants need light, water, and CO2."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:52:18.838828",
+    "updated_at": "2026-08-22T17:52:18.838828",
+    "_id": "6a89e1d221f67d8ca5defbde"
+  },
+  {
+    "lesson_id": "6a89e1ff94b090f8f258d2b9",
+    "type": "mcq",
+    "title": "Photosynthesis Ingredients",
+    "content": {
+      "question": "What 3 ingredients do plants need?",
+      "options": [
+        "Sunlight, Water, Carbon Dioxide",
+        "Milk, Sugar, Soil"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants need light, water, and CO2."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T17:53:03.251853",
+    "updated_at": "2026-08-22T17:53:03.251853",
+    "_id": "6a89e1ff94b090f8f258d2ba"
+  },
+  {
+    "lesson_id": "6a89ef4b2477f3c14fcc3714",
+    "type": "mcq",
+    "title": "Question 1",
+    "content": {
+      "question": "What is green?",
+      "options": [
+        "Leaf",
+        "Sky"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Leaves are green."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T18:49:47.078845",
+    "updated_at": "2026-08-22T18:49:47.078845",
+    "_id": "6a89ef4b2477f3c14fcc3715"
+  },
+  {
+    "lesson_id": "6a8a155e2c7e956933d9ac80",
+    "type": "mcq",
+    "title": "Evaporation Quiz",
+    "content": {
+      "question": "What causes water to evaporate?",
+      "options": [
+        "Heat from the sun",
+        "Cold temperatures",
+        "Wind only",
+        "Gravity"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The sun's heat energy causes water molecules to move faster and turn into vapor."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T21:32:14.391209",
+    "updated_at": "2026-08-22T21:32:14.391209",
+    "_id": "6a8a155e2c7e956933d9ac81"
+  },
+  {
+    "lesson_id": "6a8a155e2c7e956933d9ac80",
+    "type": "situational",
+    "title": "Rain Scenario",
+    "content": {
+      "situation": "You see clouds forming over mountains",
+      "context": "Water vapor rises and cools at higher altitudes",
+      "expected_skills": [
+        "Identify condensation",
+        "Predict precipitation"
+      ]
+    },
+    "order": 2,
+    "created_at": "2026-08-22T21:32:14.470638",
+    "updated_at": "2026-08-22T21:32:14.470638",
+    "_id": "6a8a155e2c7e956933d9ac82"
+  },
+  {
+    "lesson_id": "6a8a155e2c7e956933d9ac80",
+    "type": "mcq",
+    "title": "Condensation Check",
+    "content": {
+      "question": "What happens during condensation?",
+      "options": [
+        "Water vapor turns into liquid droplets",
+        "Water disappears into space",
+        "Ice melts into water"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "During condensation, water vapor cools and forms tiny liquid droplets."
+    },
+    "order": 3,
+    "created_at": "2026-08-22T21:32:16.700418",
+    "updated_at": "2026-08-22T21:32:16.700418",
+    "_id": "6a8a15602c7e956933d9ac83"
+  },
+  {
+    "lesson_id": "6a8a15b63acc8d909a333401",
+    "type": "mcq",
+    "title": "Evaporation Quiz",
+    "content": {
+      "question": "What causes water to evaporate?",
+      "options": [
+        "Heat from the sun",
+        "Cold temperatures",
+        "Wind only",
+        "Gravity"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The sun's heat energy causes water molecules to move faster and turn into vapor."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T21:33:42.372536",
+    "updated_at": "2026-08-22T21:33:42.372536",
+    "_id": "6a8a15b63acc8d909a333402"
+  },
+  {
+    "lesson_id": "6a8a15b63acc8d909a333401",
+    "type": "situational",
+    "title": "Rain Scenario",
+    "content": {
+      "situation": "You see clouds forming over mountains",
+      "context": "Water vapor rises and cools at higher altitudes",
+      "expected_skills": [
+        "Identify condensation",
+        "Predict precipitation"
+      ]
+    },
+    "order": 2,
+    "created_at": "2026-08-22T21:33:42.397098",
+    "updated_at": "2026-08-22T21:33:42.397098",
+    "_id": "6a8a15b63acc8d909a333403"
+  },
+  {
+    "lesson_id": "6a8a15b63acc8d909a333401",
+    "type": "mcq",
+    "title": "Condensation Check",
+    "content": {
+      "question": "What happens during condensation?",
+      "options": [
+        "Water vapor turns into liquid droplets",
+        "Water disappears into space",
+        "Ice melts into water"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "During condensation, water vapor cools and forms tiny liquid droplets."
+    },
+    "order": 3,
+    "created_at": "2026-08-22T21:33:44.643571",
+    "updated_at": "2026-08-22T21:33:44.643571",
+    "_id": "6a8a15b83acc8d909a333404"
+  },
+  {
+    "lesson_id": "6a8a1b6b1655589392833461",
+    "type": "mcq",
+    "title": "Photosynthesis Ingredients",
+    "content": {
+      "question": "What 3 ingredients do plants need to make their food?",
+      "options": [
+        "Sunlight, Water, Carbon Dioxide",
+        "Milk, Sugar, Soil",
+        "Juice, Air, Seeds"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants need light energy from the sun, water absorbed from roots, and carbon dioxide from the air."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T21:58:03.699786",
+    "updated_at": "2026-08-22T21:58:03.699786",
+    "_id": "6a8a1b6b1655589392833462"
+  },
+  {
+    "lesson_id": "6a8a212f43740fb783e6a09b",
+    "type": "mcq",
+    "title": "Photosynthesis Ingredients",
+    "content": {
+      "question": "What 3 ingredients do plants need to make their food?",
+      "options": [
+        "Sunlight, Water, Carbon Dioxide",
+        "Milk, Sugar, Soil",
+        "Juice, Air, Seeds"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Plants need light energy from the sun, water absorbed from roots, and carbon dioxide from the air."
+    },
+    "order": 1,
+    "created_at": "2026-08-22T22:22:40.008643",
+    "updated_at": "2026-08-22T22:22:40.008643",
+    "_id": "6a8a213043740fb783e6a09c"
+  },
+  {
+    "lesson_id": "6a8a574778f90b713b1de11f",
+    "type": "mcq",
+    "title": "Solar System MCQ",
+    "content": {
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Mercury is the closest planet to the Sun."
+    },
+    "order": 1,
+    "created_at": "2026-08-23T02:13:27.540792",
+    "updated_at": "2026-08-23T02:13:27.540792",
+    "_id": "6a8a574778f90b713b1de120"
+  },
+  {
+    "lesson_id": "6a8a574778f90b713b1de11f",
+    "type": "situational",
+    "title": "Mars Rover Mission",
+    "content": {
+      "situation": "A rover on Mars loses communication during a Martian dust storm.",
+      "context": "Understanding Mars atmosphere and dust storm impacts on solar panels.",
+      "expected_skills": [
+        "Dust storm diagnosis",
+        "Power conservation strategy"
+      ],
+      "difficulty_hint": "Think about solar power dependency."
+    },
+    "order": 2,
+    "created_at": "2026-08-23T02:13:27.581365",
+    "updated_at": "2026-08-23T02:13:27.581365",
+    "_id": "6a8a574778f90b713b1de121"
+  },
+  {
+    "lesson_id": "6a8a574778f90b713b1de11f",
+    "type": "audio",
+    "title": "Astronomy Spoken Fluency",
+    "content": {
+      "target_text": "Mercury, Venus, Earth, and Mars are the terrestrial inner planets.",
+      "pronunciation_guide": "ter-RES-tree-ul (Terrestrial)",
+      "audio_description": "Read aloud the names of the inner planets."
+    },
+    "order": 3,
+    "created_at": "2026-08-23T02:13:27.613399",
+    "updated_at": "2026-08-23T02:13:27.613399",
+    "_id": "6a8a574778f90b713b1de122"
+  }
+]
