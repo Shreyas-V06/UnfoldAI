@@ -207,63 +207,6 @@ Data Processing
 
 Pandas
 
-Project Structure
-
-UnfoldAI/
-│
-├── app/
-│   ├── agents/
-│   │   ├── nodes/
-│   │   ├── prompts/
-│   │   ├── graph.py
-│   │   ├── state.py
-│   │   └── utils.py
-│   │
-│   ├── agents_report/
-│   │   ├── nodes/
-│   │   ├── graph.py
-│   │   └── state.py
-│   │
-│   ├── api/
-│   │   └── v1/
-│   │       ├── endpoints/
-│   │       └── router.py
-│   │
-│   ├── core/
-│   ├── exceptions/
-│   ├── middleware/
-│   ├── models/
-│   ├── repositories/
-│   ├── services/
-│   ├── stubs/
-│   └── main.py
-│
-├── audio_analysis/
-├── data/
-├── frontend/
-├── frontend-app/
-│   ├── src/
-│   │   ├── api/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   │   ├── AdminPortal.tsx
-│   │   │   ├── GatewayPage.tsx
-│   │   │   └── StudentPortal.tsx
-│   │   ├── App.tsx
-│   │   └── main.tsx
-│   │
-│   ├── package.json
-│   ├── vite.config.ts
-│   ├── tailwind.config.js
-│   └── tsconfig.json
-│
-├── scratch/
-├── .env.example
-├── .gitignore
-├── requirements.txt
-└── README.md
-
 Application Portals
 
 Student Portal
